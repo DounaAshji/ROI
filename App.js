@@ -406,6 +406,16 @@ const App = () => {
         <Stack.Screen name= "DeleteStaff" component={DeleteStaff}/>
         <Stack.Screen name= "EditStaff" component={EditEmployeeScreen}/>
       </Stack.Navigator>
+      <Image
+        source={require('./assets/logo.png')}
+        style={{
+          position: 'absolute',
+          top: 6.5,
+          right: 10,
+          width: 100,
+          height: 50,
+        }}
+      />
     </NavigationContainer>
   );
 };
