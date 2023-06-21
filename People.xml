@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<People>
+  <person id="1">
+    <category>1</category>
+    <name>John smith</name>
+    <number>02 9988 2211</number>
+    <address>
+      <street>1 Code Lane</street>
+      <city>Javaville</city>
+      <state>NSW</state>
+      <ZIP>1011</ZIP>
+      <country>Australia</country>
+    </address>
+  </person>
+  <person id="2">
+    <category>2</category>
+    <name>Sue White</name>
+    <number>03 8899 2255</number>
+    <address>
+      <street>16 Bit Way</street>
+      <city>Byte Cove</city>
+      <state>QLD</state>
+      <ZIP>1010</ZIP>
+      <country>Australia</country>
+    </address>
+  </person>
+  <person id="3">
+    <category>3</category>
+    <name>Bob O’Bits</name>
+    <number>05 7788 2255</number>
+    <address>
+      <street>8 Silicon Road</street>
+      <city>Cloud Hills</city>
+      <state>VIC</state>
+      <ZIP>1001</ZIP>
+      <country>Australia</country>
+    </address>
+  </person>
+  <person id="4">
+    <category>2</category>
+    <name>Mary Blue</name>
+    <number>06 4455 9988</number>
+    <address>
+      <street>4 Processor Boulevard</street>
+      <city>Appletson</city>
+      <state>NT</state>
+      <ZIP>1001</ZIP>
+      <country>Australia</country>
+    </address>
+  </person>
+  <person id="5">
+    <category>3</category>
+    <name>Mick Green</name>
+    <number>02 9988 1122</number>
+    <address>
+      <street>700 Bandwidth Street</street>
+      <city>Bufferland</city>
+      <state>NSW</state>
+      <ZIP>1013</ZIP>
+      <country>Australia</country>
+    </address>
+  </person>
+</People>
